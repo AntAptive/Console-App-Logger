@@ -29,3 +29,9 @@ This is my first Windows Forms application and I wanted to post it on GitHub for
 # Future Project Goals
 - Add support for .bat and maybe .cmd files.
 - Add support for multiple console apps running simultaneously.
+
+# How to run in Visual Studio
+- Use Visual Studio 2022.
+- Set "Console App Logger" to the startup project.
+1. In Solution Explorer, highlight the "Console App Logger" project and right-click on it.
+2. In the popup menu, click "Set As Startup Project".
