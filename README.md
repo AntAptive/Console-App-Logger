@@ -17,6 +17,13 @@ This is my first Windows Forms application and I wanted to post it on GitHub for
 - Include timestamps in log: If checked, the program will include the time and date for every line in the log.
 - Minimize to tray: If checked, the program will minimize to the system tray when the user presses the X/Close button.
 
+# How to run in Visual Studio
+- Download the Source Code zip.
+- Use Visual Studio 2022.
+- Set "Console App Logger" to the startup project.
+1. In Solution Explorer, highlight the "Console App Logger" project and right-click on it.
+2. In the popup menu, click "Set As Startup Project".
+
 # Known bugs
 - "Kill Process" in the system tray dialog does nothing.
 - Input lines will not appear in the log until after an input is entered.
@@ -29,9 +36,3 @@ This is my first Windows Forms application and I wanted to post it on GitHub for
 # Future Project Goals
 - Add support for .bat and maybe .cmd files.
 - Add support for multiple console apps running simultaneously.
-
-# How to run in Visual Studio
-- Use Visual Studio 2022.
-- Set "Console App Logger" to the startup project.
-1. In Solution Explorer, highlight the "Console App Logger" project and right-click on it.
-2. In the popup menu, click "Set As Startup Project".
