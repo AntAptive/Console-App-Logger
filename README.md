@@ -3,7 +3,8 @@
 ### A simple program that allows the user to run and keep logs of a console application.
 
 This is my first Windows Forms application and I wanted to post it on GitHub for everyone to check it out.<br>
-[Please check out my other projects!](https://antaptive.com/projects/)
+
+### [Check out my other projects!](https://antaptive.com/projects/)
 
 # How to use
 - Open the program and press "Open File..." to choose an applicable .exe file.
