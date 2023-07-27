@@ -1,6 +1,6 @@
 ![Console App Logger](/consoleAppLoggerBanner.png)
 
-### A simple program that allows the user to run and keep logs of a console application, such as a .bat file or certain .exe files.
+### A simple program that allows the user to run and keep logs of a console application.
 
 This is my first Windows Forms application and I wanted to post it on GitHub for everyone to check it out.<br>
 [Please check out my other projects!](https://antaptive.com/projects/)
