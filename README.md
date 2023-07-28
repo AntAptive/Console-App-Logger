@@ -6,12 +6,17 @@ This is my first Windows Forms application and I wanted to post it on GitHub for
 
 ### [Check out my other projects!](https://antaptive.com/projects/)
 
+# How to install
+1. Check our [Releases page](https://github.com/AntAptive/Console-App-Logger/releases) to download the latest release.
+2. Extract the .zip file anywhere.
+3. Run the file `Console App Logger.exe`.
+
 # How to use
-- Open the program and press "Open File..." to choose an applicable .exe file.
+- Press "Open File..." to choose an applicable .exe file.
 - Press "Start Process" to begin the selected process.
 - Press "Save log to file" to save the log without having to stop the process.
 - Press "Stop Process" to stop the process.
-- Use the command line to send commands to the running process
+- Use the command line to send commands to the running process.
 
 # Settings
 - Dump log to file: If checked, the program will save the log to a file upon exit.
